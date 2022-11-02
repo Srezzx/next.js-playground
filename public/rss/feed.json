@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Example Name",
+    "home_page_url": "http://localhost:3000/",
+    "feed_url": "http://localhost:3000//rss/feed.json",
+    "description": "Example Description",
+    "icon": "http://localhost:3000//favicon.ico",
+    "author": {
+        "name": "John Doe",
+        "url": "https://twitter.com/<username>"
+    },
+    "items": [
+        {
+            "id": "TRY ID",
+            "content_html": "This is an example rss feed for next.js 13",
+            "url": "https://srieshag.com",
+            "title": "Sriesh Try for next.js 12",
+            "summary": "Example post description",
+            "date_modified": "2022-11-02T06:11:33.922Z",
+            "author": {
+                "name": "John Doe",
+                "url": "https://twitter.com/<username>"
+            }
+        }
+    ]
+}
